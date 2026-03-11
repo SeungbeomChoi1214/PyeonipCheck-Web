@@ -1,0 +1,40 @@
+# === [1. 보안/비밀 파일 (절대 올리면 안 됨)] ===
+.env
+*.pem
+*.key
+*.crt
+secrets.json
+TP_Server_Key.pem
+
+# === [2. 로컬 환경 설정] ===
+venv/
+env/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# === [3. 대용량/바이너리 및 로컬 실행 파일] ===
+*.db
+*.sqlite3
+university.db
+*.xlsx
+*.csv
+output/
+pdfs/
+ngrok.exe
+ngrok
+
+# === [4. 프론트엔드 빌드 및 라이브러리] ===
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+/node_modules
+/.pnp
+.pnp.js
+/build
+npm-debug.log*
+
+# === [5. OS 생성 쓰레기 파일] ===
+.DS_Store
+Thumbs.db
