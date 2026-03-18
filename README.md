@@ -52,14 +52,14 @@ Deployment   │ nohup + 수동 배포 (FileZilla → /var/www/html)
 
 ## 📊 서비스 화면
 
-### 1단계 — 학과 및 점수 입력
-<img width="674" alt="1단계 대시보드" src="https://github.com/user-attachments/assets/c4c897b7-4166-4761-b837-68a4279e45de" />
+### 1단계 — 학교 및 계열 입력
+<img width="725" height="1188" alt="스크린샷 2026-02-03 093159" src="https://github.com/user-attachments/assets/f707280d-d208-46e8-9034-cf0a477a5be5" />
 
-### 2단계 — 전형 방식 분석
-<img width="725" alt="2단계 대시보드" src="https://github.com/user-attachments/assets/0852c970-6240-442c-b401-818f6a32d1fc" />
+### 2단계 — 학과 및 점수 입력
+<img width="674" height="1188" alt="스크린샷 2026-02-03 093214" src="https://github.com/user-attachments/assets/763ab80c-ce58-4e2a-95f8-bd6e760d5abe" />
 
-### 3단계 — 합격 가능성 최종 결과
-<img width="410" alt="3단계 최종 대시보드" src="https://github.com/user-attachments/assets/02a7dd46-2780-46e6-8b4f-a9243f4c78c1" />
+### 3단계 — 분석 리포트 및 경쟁 점수 비교
+<img width="410" height="1102" alt="스크린샷 2026-02-03 093227" src="https://github.com/user-attachments/assets/13dc8dc9-f938-4c68-bbc3-0708cf1df413" />
 
 ---
 
