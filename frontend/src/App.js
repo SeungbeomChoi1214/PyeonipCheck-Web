@@ -24,7 +24,7 @@ function App() {
     setLoading(true); // 1. 로딩 스피너 시작
 
     try {
-      // 2. [추가된 부분] 1500ms(1.5초) 동안 강제로 기다림 (분석하는 느낌 연출)
+      // 2. [추가된 부분] 1500ms(1.5초) 동안 강제로 기다림 
       await new Promise(resolve => setTimeout(resolve, 1500));
 
       // 3. 그 다음에 진짜 API 호출
